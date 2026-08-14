@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Predict-Color-Ceramic-Restorations"
+type: software
+authors:
+  - family-names: "Rocha"
+    given-names: "Mateus G."
+repository-code: "https://github.com/drmateusrocha/Predict-Color-Ceramic-Restorations"
+preferred-citation:
+  type: article
+  title: "Using artificial intelligence to predict the final color of leucite-reinforced ceramic restorations"
+  authors:
+    - family-names: "Kose"
+      given-names: "C."
+      name-suffix: "Jr"
+    - family-names: "Oliveira"
+      given-names: "D."
+    - family-names: "Pereira"
+      given-names: "P. N. R."
+    - family-names: "Rocha"
+      given-names: "M. G."
+  journal: "Journal of Esthetic and Restorative Dentistry"
+  year: 2023
+  volume: 35
+  issue: 1
+  start: 105
+  end: 115
+  doi: "10.1111/jerd.13007"
