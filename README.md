@@ -215,3 +215,10 @@ https://github.com/drmateusrocha/Capstone-Project/tree/main/notebooks
 - Notebook 2 - Multivariate Regressions (Scikit Learn) 
 - Notebook 3 - Simple Neural Network (TensorFlow with GridSearchCV) 
 - Notebook 4 - Deep Neural Network (Tensorflow with Bayesian Optimization)
+
+
+## Citation
+
+If you use this repository, please cite:
+
+> Kose C Jr, Oliveira D, Pereira PNR, Rocha MG. Using artificial intelligence to predict the final color of leucite-reinforced ceramic restorations. *J Esthet Restor Dent.* 2023 Jan;35(1):105-115. doi: [10.1111/jerd.13007](https://doi.org/10.1111/jerd.13007). PMID: 36592128.
